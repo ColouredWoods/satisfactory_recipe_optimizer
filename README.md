@@ -1,0 +1,1 @@
+# satisfactory_recipe_optimizer
