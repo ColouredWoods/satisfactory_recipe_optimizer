@@ -1,0 +1,11 @@
+[workspace]
+
+resolver = "2"
+
+members = [
+    "database",
+    # "web_crawler",
+    # "user_interface",
+    # "application",
+    # "recipe_optimizer",
+]
